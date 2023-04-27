@@ -1,0 +1,15 @@
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\LinqOperater\LinqOperater\bin\Debug\net6.0\LinqOperater.exe
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\LinqOperater\LinqOperater\bin\Debug\net6.0\LinqOperater.deps.json
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\LinqOperater\LinqOperater\bin\Debug\net6.0\LinqOperater.runtimeconfig.json
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\LinqOperater\LinqOperater\bin\Debug\net6.0\LinqOperater.dll
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\LinqOperater\LinqOperater\bin\Debug\net6.0\LinqOperater.pdb
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\LinqOperater\LinqOperater\obj\Debug\net6.0\LinqOperater.csproj.AssemblyReference.cache
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\LinqOperater\LinqOperater\obj\Debug\net6.0\LinqOperater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\LinqOperater\LinqOperater\obj\Debug\net6.0\LinqOperater.AssemblyInfoInputs.cache
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\LinqOperater\LinqOperater\obj\Debug\net6.0\LinqOperater.AssemblyInfo.cs
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\LinqOperater\LinqOperater\obj\Debug\net6.0\LinqOperater.csproj.CoreCompileInputs.cache
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\LinqOperater\LinqOperater\obj\Debug\net6.0\LinqOperater.dll
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\LinqOperater\LinqOperater\obj\Debug\net6.0\refint\LinqOperater.dll
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\LinqOperater\LinqOperater\obj\Debug\net6.0\LinqOperater.pdb
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\LinqOperater\LinqOperater\obj\Debug\net6.0\LinqOperater.genruntimeconfig.cache
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\LinqOperater\LinqOperater\obj\Debug\net6.0\ref\LinqOperater.dll

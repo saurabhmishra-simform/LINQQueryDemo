@@ -1,0 +1,15 @@
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\LinqOperater\Orderby\bin\Debug\net6.0\Orderby.exe
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\LinqOperater\Orderby\bin\Debug\net6.0\Orderby.deps.json
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\LinqOperater\Orderby\bin\Debug\net6.0\Orderby.runtimeconfig.json
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\LinqOperater\Orderby\bin\Debug\net6.0\Orderby.dll
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\LinqOperater\Orderby\bin\Debug\net6.0\Orderby.pdb
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\LinqOperater\Orderby\obj\Debug\net6.0\Orderby.csproj.AssemblyReference.cache
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\LinqOperater\Orderby\obj\Debug\net6.0\Orderby.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\LinqOperater\Orderby\obj\Debug\net6.0\Orderby.AssemblyInfoInputs.cache
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\LinqOperater\Orderby\obj\Debug\net6.0\Orderby.AssemblyInfo.cs
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\LinqOperater\Orderby\obj\Debug\net6.0\Orderby.csproj.CoreCompileInputs.cache
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\LinqOperater\Orderby\obj\Debug\net6.0\Orderby.dll
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\LinqOperater\Orderby\obj\Debug\net6.0\refint\Orderby.dll
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\LinqOperater\Orderby\obj\Debug\net6.0\Orderby.pdb
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\LinqOperater\Orderby\obj\Debug\net6.0\Orderby.genruntimeconfig.cache
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\LinqOperater\Orderby\obj\Debug\net6.0\ref\Orderby.dll

@@ -1,0 +1,15 @@
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\LinqOperater\PatitionOperator\bin\Debug\net6.0\PatitionOperator.exe
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\LinqOperater\PatitionOperator\bin\Debug\net6.0\PatitionOperator.deps.json
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\LinqOperater\PatitionOperator\bin\Debug\net6.0\PatitionOperator.runtimeconfig.json
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\LinqOperater\PatitionOperator\bin\Debug\net6.0\PatitionOperator.dll
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\LinqOperater\PatitionOperator\bin\Debug\net6.0\PatitionOperator.pdb
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\LinqOperater\PatitionOperator\obj\Debug\net6.0\PatitionOperator.csproj.AssemblyReference.cache
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\LinqOperater\PatitionOperator\obj\Debug\net6.0\PatitionOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\LinqOperater\PatitionOperator\obj\Debug\net6.0\PatitionOperator.AssemblyInfoInputs.cache
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\LinqOperater\PatitionOperator\obj\Debug\net6.0\PatitionOperator.AssemblyInfo.cs
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\LinqOperater\PatitionOperator\obj\Debug\net6.0\PatitionOperator.csproj.CoreCompileInputs.cache
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\LinqOperater\PatitionOperator\obj\Debug\net6.0\PatitionOperator.dll
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\LinqOperater\PatitionOperator\obj\Debug\net6.0\refint\PatitionOperator.dll
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\LinqOperater\PatitionOperator\obj\Debug\net6.0\PatitionOperator.pdb
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\LinqOperater\PatitionOperator\obj\Debug\net6.0\PatitionOperator.genruntimeconfig.cache
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\LinqOperater\PatitionOperator\obj\Debug\net6.0\ref\PatitionOperator.dll

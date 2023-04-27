@@ -1,0 +1,15 @@
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\ExpressionDemo\ExpressionDemo\bin\Debug\net6.0\ExpressionDemo.exe
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\ExpressionDemo\ExpressionDemo\bin\Debug\net6.0\ExpressionDemo.deps.json
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\ExpressionDemo\ExpressionDemo\bin\Debug\net6.0\ExpressionDemo.runtimeconfig.json
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\ExpressionDemo\ExpressionDemo\bin\Debug\net6.0\ExpressionDemo.dll
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\ExpressionDemo\ExpressionDemo\bin\Debug\net6.0\ExpressionDemo.pdb
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\ExpressionDemo\ExpressionDemo\obj\Debug\net6.0\ExpressionDemo.csproj.AssemblyReference.cache
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\ExpressionDemo\ExpressionDemo\obj\Debug\net6.0\ExpressionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\ExpressionDemo\ExpressionDemo\obj\Debug\net6.0\ExpressionDemo.AssemblyInfoInputs.cache
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\ExpressionDemo\ExpressionDemo\obj\Debug\net6.0\ExpressionDemo.AssemblyInfo.cs
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\ExpressionDemo\ExpressionDemo\obj\Debug\net6.0\ExpressionDemo.csproj.CoreCompileInputs.cache
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\ExpressionDemo\ExpressionDemo\obj\Debug\net6.0\ExpressionDemo.dll
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\ExpressionDemo\ExpressionDemo\obj\Debug\net6.0\refint\ExpressionDemo.dll
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\ExpressionDemo\ExpressionDemo\obj\Debug\net6.0\ExpressionDemo.pdb
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\ExpressionDemo\ExpressionDemo\obj\Debug\net6.0\ExpressionDemo.genruntimeconfig.cache
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\ExpressionDemo\ExpressionDemo\obj\Debug\net6.0\ref\ExpressionDemo.dll

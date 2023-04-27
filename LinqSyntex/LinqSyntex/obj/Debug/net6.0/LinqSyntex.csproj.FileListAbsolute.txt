@@ -1,0 +1,15 @@
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\LinqSyntex\LinqSyntex\bin\Debug\net6.0\LinqSyntex.exe
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\LinqSyntex\LinqSyntex\bin\Debug\net6.0\LinqSyntex.deps.json
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\LinqSyntex\LinqSyntex\bin\Debug\net6.0\LinqSyntex.runtimeconfig.json
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\LinqSyntex\LinqSyntex\bin\Debug\net6.0\LinqSyntex.dll
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\LinqSyntex\LinqSyntex\bin\Debug\net6.0\LinqSyntex.pdb
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\LinqSyntex\LinqSyntex\obj\Debug\net6.0\LinqSyntex.csproj.AssemblyReference.cache
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\LinqSyntex\LinqSyntex\obj\Debug\net6.0\LinqSyntex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\LinqSyntex\LinqSyntex\obj\Debug\net6.0\LinqSyntex.AssemblyInfoInputs.cache
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\LinqSyntex\LinqSyntex\obj\Debug\net6.0\LinqSyntex.AssemblyInfo.cs
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\LinqSyntex\LinqSyntex\obj\Debug\net6.0\LinqSyntex.csproj.CoreCompileInputs.cache
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\LinqSyntex\LinqSyntex\obj\Debug\net6.0\LinqSyntex.dll
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\LinqSyntex\LinqSyntex\obj\Debug\net6.0\refint\LinqSyntex.dll
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\LinqSyntex\LinqSyntex\obj\Debug\net6.0\LinqSyntex.pdb
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\LinqSyntex\LinqSyntex\obj\Debug\net6.0\LinqSyntex.genruntimeconfig.cache
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\LinqSyntex\LinqSyntex\obj\Debug\net6.0\ref\LinqSyntex.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Immediate/1.0.0": {
+        "dependencies": {
+          "DeferredExceution": "1.0.0"
+        },
+        "runtime": {
+          "Immediate.dll": {}
+        }
+      },
+      "DeferredExceution/1.0.0": {
+        "runtime": {
+          "DeferredExceution.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Immediate/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DeferredExceution/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

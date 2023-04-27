@@ -1,0 +1,15 @@
+C:\Users\saurabh\Desktop\Saurabh\ADO.Net\ExampleDemo\ExampleDemo\bin\Debug\net6.0\ExampleDemo.exe
+C:\Users\saurabh\Desktop\Saurabh\ADO.Net\ExampleDemo\ExampleDemo\bin\Debug\net6.0\ExampleDemo.deps.json
+C:\Users\saurabh\Desktop\Saurabh\ADO.Net\ExampleDemo\ExampleDemo\bin\Debug\net6.0\ExampleDemo.runtimeconfig.json
+C:\Users\saurabh\Desktop\Saurabh\ADO.Net\ExampleDemo\ExampleDemo\bin\Debug\net6.0\ExampleDemo.dll
+C:\Users\saurabh\Desktop\Saurabh\ADO.Net\ExampleDemo\ExampleDemo\bin\Debug\net6.0\ExampleDemo.pdb
+C:\Users\saurabh\Desktop\Saurabh\ADO.Net\ExampleDemo\ExampleDemo\obj\Debug\net6.0\ExampleDemo.csproj.AssemblyReference.cache
+C:\Users\saurabh\Desktop\Saurabh\ADO.Net\ExampleDemo\ExampleDemo\obj\Debug\net6.0\ExampleDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saurabh\Desktop\Saurabh\ADO.Net\ExampleDemo\ExampleDemo\obj\Debug\net6.0\ExampleDemo.AssemblyInfoInputs.cache
+C:\Users\saurabh\Desktop\Saurabh\ADO.Net\ExampleDemo\ExampleDemo\obj\Debug\net6.0\ExampleDemo.AssemblyInfo.cs
+C:\Users\saurabh\Desktop\Saurabh\ADO.Net\ExampleDemo\ExampleDemo\obj\Debug\net6.0\ExampleDemo.csproj.CoreCompileInputs.cache
+C:\Users\saurabh\Desktop\Saurabh\ADO.Net\ExampleDemo\ExampleDemo\obj\Debug\net6.0\ExampleDemo.dll
+C:\Users\saurabh\Desktop\Saurabh\ADO.Net\ExampleDemo\ExampleDemo\obj\Debug\net6.0\refint\ExampleDemo.dll
+C:\Users\saurabh\Desktop\Saurabh\ADO.Net\ExampleDemo\ExampleDemo\obj\Debug\net6.0\ExampleDemo.pdb
+C:\Users\saurabh\Desktop\Saurabh\ADO.Net\ExampleDemo\ExampleDemo\obj\Debug\net6.0\ExampleDemo.genruntimeconfig.cache
+C:\Users\saurabh\Desktop\Saurabh\ADO.Net\ExampleDemo\ExampleDemo\obj\Debug\net6.0\ref\ExampleDemo.dll

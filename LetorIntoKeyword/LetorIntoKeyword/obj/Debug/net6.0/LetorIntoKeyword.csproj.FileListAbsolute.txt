@@ -1,0 +1,15 @@
+C:\Users\saurabh\Desktop\Saurabh\ADO.Net\LetorIntoKeyword\LetorIntoKeyword\bin\Debug\net6.0\LetorIntoKeyword.exe
+C:\Users\saurabh\Desktop\Saurabh\ADO.Net\LetorIntoKeyword\LetorIntoKeyword\bin\Debug\net6.0\LetorIntoKeyword.deps.json
+C:\Users\saurabh\Desktop\Saurabh\ADO.Net\LetorIntoKeyword\LetorIntoKeyword\bin\Debug\net6.0\LetorIntoKeyword.runtimeconfig.json
+C:\Users\saurabh\Desktop\Saurabh\ADO.Net\LetorIntoKeyword\LetorIntoKeyword\bin\Debug\net6.0\LetorIntoKeyword.dll
+C:\Users\saurabh\Desktop\Saurabh\ADO.Net\LetorIntoKeyword\LetorIntoKeyword\bin\Debug\net6.0\LetorIntoKeyword.pdb
+C:\Users\saurabh\Desktop\Saurabh\ADO.Net\LetorIntoKeyword\LetorIntoKeyword\obj\Debug\net6.0\LetorIntoKeyword.csproj.AssemblyReference.cache
+C:\Users\saurabh\Desktop\Saurabh\ADO.Net\LetorIntoKeyword\LetorIntoKeyword\obj\Debug\net6.0\LetorIntoKeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saurabh\Desktop\Saurabh\ADO.Net\LetorIntoKeyword\LetorIntoKeyword\obj\Debug\net6.0\LetorIntoKeyword.AssemblyInfoInputs.cache
+C:\Users\saurabh\Desktop\Saurabh\ADO.Net\LetorIntoKeyword\LetorIntoKeyword\obj\Debug\net6.0\LetorIntoKeyword.AssemblyInfo.cs
+C:\Users\saurabh\Desktop\Saurabh\ADO.Net\LetorIntoKeyword\LetorIntoKeyword\obj\Debug\net6.0\LetorIntoKeyword.csproj.CoreCompileInputs.cache
+C:\Users\saurabh\Desktop\Saurabh\ADO.Net\LetorIntoKeyword\LetorIntoKeyword\obj\Debug\net6.0\LetorIntoKeyword.dll
+C:\Users\saurabh\Desktop\Saurabh\ADO.Net\LetorIntoKeyword\LetorIntoKeyword\obj\Debug\net6.0\refint\LetorIntoKeyword.dll
+C:\Users\saurabh\Desktop\Saurabh\ADO.Net\LetorIntoKeyword\LetorIntoKeyword\obj\Debug\net6.0\LetorIntoKeyword.pdb
+C:\Users\saurabh\Desktop\Saurabh\ADO.Net\LetorIntoKeyword\LetorIntoKeyword\obj\Debug\net6.0\LetorIntoKeyword.genruntimeconfig.cache
+C:\Users\saurabh\Desktop\Saurabh\ADO.Net\LetorIntoKeyword\LetorIntoKeyword\obj\Debug\net6.0\ref\LetorIntoKeyword.dll

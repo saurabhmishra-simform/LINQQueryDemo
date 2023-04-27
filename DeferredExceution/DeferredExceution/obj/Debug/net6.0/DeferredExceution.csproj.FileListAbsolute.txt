@@ -1,0 +1,15 @@
+C:\Users\saurabh\Desktop\Saurabh\ADO.Net\DeferredExceution\DeferredExceution\bin\Debug\net6.0\DeferredExceution.exe
+C:\Users\saurabh\Desktop\Saurabh\ADO.Net\DeferredExceution\DeferredExceution\bin\Debug\net6.0\DeferredExceution.deps.json
+C:\Users\saurabh\Desktop\Saurabh\ADO.Net\DeferredExceution\DeferredExceution\bin\Debug\net6.0\DeferredExceution.runtimeconfig.json
+C:\Users\saurabh\Desktop\Saurabh\ADO.Net\DeferredExceution\DeferredExceution\bin\Debug\net6.0\DeferredExceution.dll
+C:\Users\saurabh\Desktop\Saurabh\ADO.Net\DeferredExceution\DeferredExceution\bin\Debug\net6.0\DeferredExceution.pdb
+C:\Users\saurabh\Desktop\Saurabh\ADO.Net\DeferredExceution\DeferredExceution\obj\Debug\net6.0\DeferredExceution.csproj.AssemblyReference.cache
+C:\Users\saurabh\Desktop\Saurabh\ADO.Net\DeferredExceution\DeferredExceution\obj\Debug\net6.0\DeferredExceution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saurabh\Desktop\Saurabh\ADO.Net\DeferredExceution\DeferredExceution\obj\Debug\net6.0\DeferredExceution.AssemblyInfoInputs.cache
+C:\Users\saurabh\Desktop\Saurabh\ADO.Net\DeferredExceution\DeferredExceution\obj\Debug\net6.0\DeferredExceution.AssemblyInfo.cs
+C:\Users\saurabh\Desktop\Saurabh\ADO.Net\DeferredExceution\DeferredExceution\obj\Debug\net6.0\DeferredExceution.csproj.CoreCompileInputs.cache
+C:\Users\saurabh\Desktop\Saurabh\ADO.Net\DeferredExceution\DeferredExceution\obj\Debug\net6.0\DeferredExceution.dll
+C:\Users\saurabh\Desktop\Saurabh\ADO.Net\DeferredExceution\DeferredExceution\obj\Debug\net6.0\refint\DeferredExceution.dll
+C:\Users\saurabh\Desktop\Saurabh\ADO.Net\DeferredExceution\DeferredExceution\obj\Debug\net6.0\DeferredExceution.pdb
+C:\Users\saurabh\Desktop\Saurabh\ADO.Net\DeferredExceution\DeferredExceution\obj\Debug\net6.0\DeferredExceution.genruntimeconfig.cache
+C:\Users\saurabh\Desktop\Saurabh\ADO.Net\DeferredExceution\DeferredExceution\obj\Debug\net6.0\ref\DeferredExceution.dll

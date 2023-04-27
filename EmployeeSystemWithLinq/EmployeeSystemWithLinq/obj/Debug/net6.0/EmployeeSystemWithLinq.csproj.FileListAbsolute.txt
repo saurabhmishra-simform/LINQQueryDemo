@@ -1,0 +1,15 @@
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\EmployeeSystemWithLinq\EmployeeSystemWithLinq\bin\Debug\net6.0\EmployeeSystemWithLinq.exe
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\EmployeeSystemWithLinq\EmployeeSystemWithLinq\bin\Debug\net6.0\EmployeeSystemWithLinq.deps.json
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\EmployeeSystemWithLinq\EmployeeSystemWithLinq\bin\Debug\net6.0\EmployeeSystemWithLinq.runtimeconfig.json
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\EmployeeSystemWithLinq\EmployeeSystemWithLinq\bin\Debug\net6.0\EmployeeSystemWithLinq.dll
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\EmployeeSystemWithLinq\EmployeeSystemWithLinq\bin\Debug\net6.0\EmployeeSystemWithLinq.pdb
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\EmployeeSystemWithLinq\EmployeeSystemWithLinq\obj\Debug\net6.0\EmployeeSystemWithLinq.csproj.AssemblyReference.cache
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\EmployeeSystemWithLinq\EmployeeSystemWithLinq\obj\Debug\net6.0\EmployeeSystemWithLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\EmployeeSystemWithLinq\EmployeeSystemWithLinq\obj\Debug\net6.0\EmployeeSystemWithLinq.AssemblyInfoInputs.cache
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\EmployeeSystemWithLinq\EmployeeSystemWithLinq\obj\Debug\net6.0\EmployeeSystemWithLinq.AssemblyInfo.cs
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\EmployeeSystemWithLinq\EmployeeSystemWithLinq\obj\Debug\net6.0\EmployeeSystemWithLinq.csproj.CoreCompileInputs.cache
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\EmployeeSystemWithLinq\EmployeeSystemWithLinq\obj\Debug\net6.0\EmployeeSystemWithLinq.dll
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\EmployeeSystemWithLinq\EmployeeSystemWithLinq\obj\Debug\net6.0\refint\EmployeeSystemWithLinq.dll
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\EmployeeSystemWithLinq\EmployeeSystemWithLinq\obj\Debug\net6.0\EmployeeSystemWithLinq.pdb
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\EmployeeSystemWithLinq\EmployeeSystemWithLinq\obj\Debug\net6.0\EmployeeSystemWithLinq.genruntimeconfig.cache
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\EmployeeSystemWithLinq\EmployeeSystemWithLinq\obj\Debug\net6.0\ref\EmployeeSystemWithLinq.dll

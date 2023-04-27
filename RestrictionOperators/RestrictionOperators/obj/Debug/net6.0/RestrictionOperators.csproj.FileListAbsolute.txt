@@ -1,0 +1,15 @@
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\RestrictionOperators\RestrictionOperators\bin\Debug\net6.0\RestrictionOperators.exe
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\RestrictionOperators\RestrictionOperators\bin\Debug\net6.0\RestrictionOperators.deps.json
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\RestrictionOperators\RestrictionOperators\bin\Debug\net6.0\RestrictionOperators.runtimeconfig.json
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\RestrictionOperators\RestrictionOperators\bin\Debug\net6.0\RestrictionOperators.dll
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\RestrictionOperators\RestrictionOperators\bin\Debug\net6.0\RestrictionOperators.pdb
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\RestrictionOperators\RestrictionOperators\obj\Debug\net6.0\RestrictionOperators.csproj.AssemblyReference.cache
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\RestrictionOperators\RestrictionOperators\obj\Debug\net6.0\RestrictionOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\RestrictionOperators\RestrictionOperators\obj\Debug\net6.0\RestrictionOperators.AssemblyInfoInputs.cache
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\RestrictionOperators\RestrictionOperators\obj\Debug\net6.0\RestrictionOperators.AssemblyInfo.cs
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\RestrictionOperators\RestrictionOperators\obj\Debug\net6.0\RestrictionOperators.csproj.CoreCompileInputs.cache
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\RestrictionOperators\RestrictionOperators\obj\Debug\net6.0\RestrictionOperators.dll
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\RestrictionOperators\RestrictionOperators\obj\Debug\net6.0\refint\RestrictionOperators.dll
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\RestrictionOperators\RestrictionOperators\obj\Debug\net6.0\RestrictionOperators.pdb
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\RestrictionOperators\RestrictionOperators\obj\Debug\net6.0\RestrictionOperators.genruntimeconfig.cache
+C:\Users\saurabh\Desktop\Saurabh\LinqQuery\RestrictionOperators\RestrictionOperators\obj\Debug\net6.0\ref\RestrictionOperators.dll
